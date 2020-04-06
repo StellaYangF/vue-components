@@ -21,11 +21,15 @@ export default {
 </script>
 <style>
     .box {
-        height: 300px;
+        height: 80vh;
         overflow: scroll;
+    }
+    li {
+        list-style: none;
     }
     img {
         width: 100px;
         height: 100px;
+        border-radius: 4px;
     }
 </style>
